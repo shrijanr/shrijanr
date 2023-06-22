@@ -14,6 +14,6 @@ I'm Shrijan (he/him), a CS major at **University of Maryland, Baltimore County**
 
 **Contact**:
 
-    - @domojr on discord 
+     @domojr on discord 
     
-    - shrijanr3gmi@gmail.com
+     shrijanr3gmi@gmail.com
