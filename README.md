@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!--
-I'm a CS major at University of Maryland, Baltimore County
+I'm Shrijan (he/him), a CS major at **University of Maryland, Baltimore County**.
 
-- 🔭 I’m currently working on some personal projects for the summer!
-- 🌱 I’m currently learning Arduino, C++, JavaScript, Next.js
-- 🤔 I’m looking for help with C++ and creating apps!
-- 📫 How to reach me: 
+**WIP**: InstantReplayGlasses, shrijanr.vercel.app
+**Learning**: Arduino, C++, JavaScript, Next.js, GPT4
+**Personal Goals**: Get better at C++ and understand Machine Learning
+**Hobbies**: Software engineering, Games, Music
+**Contact**:
     - @domojr on discord 
     - shrijanr3gmi@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love 
--->
