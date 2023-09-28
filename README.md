@@ -4,7 +4,7 @@ I'm Shrijan (he/him), a CS major at **University of Maryland, Baltimore County**
 
 &nbsp;
 
-**WIP**: InstantReplayGlasses, shrijanr.vercel.app, AI ChatBot
+**WIP**: InstantReplayGlasses, shrijanr.vercel.app, AI Chess
 
 **Learning**: Arduino, C++, JavaScript, Next.js, GPT4
 
